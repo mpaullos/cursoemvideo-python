@@ -3,7 +3,7 @@
  
 - [Mundo 1](https://github.com/mpaullos/cursoemvideo-python/tree/main/Exercicios/Mundo1)
  
-|Exercicios| Python 3 |
+|Exercícios| Python 3 |
 | --- | --- 
 |[ex001](https://github.com/mpaullos/cursoemvideo-python/blob/main/Exercicios/Mundo1/ex001.py)| Olá, Mundo! |
 |[ex002](https://github.com/mpaullos/cursoemvideo-python/blob/main/Exercicios/Mundo1/ex002.py)| Respondendo ao usuário |
