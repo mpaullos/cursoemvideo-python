@@ -25,6 +25,16 @@
 |[ex018](https://github.com/mpaullos/cursoemvideo-python/blob/main/Exercicios/Mundo1/ex018.py)| Seno, Cosseno e Tangente |
 |[ex019](https://github.com/mpaullos/cursoemvideo-python/blob/main/Exercicios/Mundo1/ex019.py)| Sorteando um item na lista |
 |[ex020](https://github.com/mpaullos/cursoemvideo-python/blob/main/Exercicios/Mundo1/ex020.py)| Sorteando uma ordem na lista |
+|[ex021](https://github.com/mpaullos/cursoemvideo-python/blob/main/Exercicios/Mundo1/ex021.py)| Tocando um MP3 |
+|[ex022](https://github.com/mpaullos/cursoemvideo-python/blob/main/Exercicios/Mundo1/ex022.py)| Analisador de Textos |
+|[ex023](https://github.com/mpaullos/cursoemvideo-python/blob/main/Exercicios/Mundo1/ex023.py)| Separando digitos de um número |
+|[ex024](https://github.com/mpaullos/cursoemvideo-python/blob/main/Exercicios/Mundo1/ex024.py)| Verificando primeiras letras de um texto |
+|[ex025](https://github.com/mpaullos/cursoemvideo-python/blob/main/Exercicios/Mundo1/ex025.py)| Procurando uma String dentro de outra |
+|[ex026](https://github.com/mpaullos/cursoemvideo-python/blob/main/Exercicios/Mundo1/ex026.py)| Primeira e última ocorrência de uma String |
+|[ex027](https://github.com/mpaullos/cursoemvideo-python/blob/main/Exercicios/Mundo1/ex027.py)| Primeiro e último nome de uma pessoa |
+|[ex028](https://github.com/mpaullos/cursoemvideo-python/blob/main/Exercicios/Mundo1/ex028.py)| Jogo da advinhação v1.0 |
+|[ex029](https://github.com/mpaullos/cursoemvideo-python/blob/main/Exercicios/Mundo1/ex029.py)| Radar eletrônico |
+|[ex030](https://github.com/mpaullos/cursoemvideo-python/blob/main/Exercicios/Mundo1/ex030.py)| Par ou Ímpar? |
 
 ---
 - [Mundo 2](https://github.com/mpaullos/cursoemvideo-python/tree/main/Exercicios/Mundo2)
