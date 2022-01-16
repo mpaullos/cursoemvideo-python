@@ -35,6 +35,11 @@
 |[ex028](https://github.com/mpaullos/cursoemvideo-python/blob/main/Exercicios/Mundo1/ex028.py)| Jogo da advinhação v1.0 |
 |[ex029](https://github.com/mpaullos/cursoemvideo-python/blob/main/Exercicios/Mundo1/ex029.py)| Radar eletrônico |
 |[ex030](https://github.com/mpaullos/cursoemvideo-python/blob/main/Exercicios/Mundo1/ex030.py)| Par ou Ímpar? |
+|[ex031](https://github.com/mpaullos/cursoemvideo-python/blob/main/Exercicios/Mundo1/ex031.py)| Custo da viagem |
+|[ex032](https://github.com/mpaullos/cursoemvideo-python/blob/main/Exercicios/Mundo1/ex032.py)| Ano Bissexto |
+|[ex033](https://github.com/mpaullos/cursoemvideo-python/blob/main/Exercicios/Mundo1/ex033.py)| Maior e menor valores |
+|[ex034](https://github.com/mpaullos/cursoemvideo-python/blob/main/Exercicios/Mundo1/ex034.py)| Aumentos múltiplos |
+|[ex033](https://github.com/mpaullos/cursoemvideo-python/blob/main/Exercicios/Mundo1/ex035.py)| Analisando Triângulos v1.0 |
 
 ---
 - [Mundo 2](https://github.com/mpaullos/cursoemvideo-python/tree/main/Exercicios/Mundo2)
