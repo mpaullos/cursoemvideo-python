@@ -39,7 +39,7 @@
 |[ex032](https://github.com/mpaullos/cursoemvideo-python/blob/main/Exercicios/Mundo1/ex032.py)| Ano Bissexto |
 |[ex033](https://github.com/mpaullos/cursoemvideo-python/blob/main/Exercicios/Mundo1/ex033.py)| Maior e menor valores |
 |[ex034](https://github.com/mpaullos/cursoemvideo-python/blob/main/Exercicios/Mundo1/ex034.py)| Aumentos múltiplos |
-|[ex033](https://github.com/mpaullos/cursoemvideo-python/blob/main/Exercicios/Mundo1/ex035.py)| Analisando Triângulos v1.0 |
+|[ex035](https://github.com/mpaullos/cursoemvideo-python/blob/main/Exercicios/Mundo1/ex035.py)| Analisando Triângulos v1.0 |
 
 ---
 - [Mundo 2](https://github.com/mpaullos/cursoemvideo-python/tree/main/Exercicios/Mundo2)
