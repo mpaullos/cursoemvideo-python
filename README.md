@@ -43,6 +43,19 @@
 
 ---
 - [Mundo 2](https://github.com/mpaullos/cursoemvideo-python/tree/main/Exercicios/Mundo2)
+
+|Exercícios| Python 3 |
+| --- | --- 
+|[ex036](https://github.com/mpaullos/cursoemvideo-python/blob/main/Exercicios/Mundo2/ex036.py)| Aprovando Empréstimo |
+|[ex037](https://github.com/mpaullos/cursoemvideo-python/blob/main/Exercicios/Mundo2/ex037.py)| Conversor de Bases Númericas |
+|[ex038](https://github.com/mpaullos/cursoemvideo-python/blob/main/Exercicios/Mundo2/ex038.py)| Comparando Números |
+|[ex039](https://github.com/mpaullos/cursoemvideo-python/blob/main/Exercicios/Mundo2/ex039.py)| Alistamento Militar |
+|[ex040](https://github.com/mpaullos/cursoemvideo-python/blob/main/Exercicios/Mundo2/ex040.py)| Média |
+|[ex041](https://github.com/mpaullos/cursoemvideo-python/blob/main/Exercicios/Mundo2/ex041.py)| Classificando Atletas |
+|[ex042](https://github.com/mpaullos/cursoemvideo-python/blob/main/Exercicios/Mundo2/ex042.py)| Analisando Triângulos V2.0 |
+|[ex043](https://github.com/mpaullos/cursoemvideo-python/blob/main/Exercicios/Mundo2/ex043.py)| Índice de massa corporal |
+|[ex044](https://github.com/mpaullos/cursoemvideo-python/blob/main/Exercicios/Mundo2/ex044.py)| Gerenciador de Pagamentos |
+|[ex045](https://github.com/mpaullos/cursoemvideo-python/blob/main/Exercicios/Mundo2/ex045.py)| Jogo Pedra, Papel e Tesoura |
 ---
 
 - [Mundo 3](https://github.com/mpaullos/cursoemvideo-python/tree/main/Exercicios/Mundo3)
