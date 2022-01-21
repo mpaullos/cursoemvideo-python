@@ -56,6 +56,11 @@
 |[ex043](https://github.com/mpaullos/cursoemvideo-python/blob/main/Exercicios/Mundo2/ex043.py)| Índice de massa corporal |
 |[ex044](https://github.com/mpaullos/cursoemvideo-python/blob/main/Exercicios/Mundo2/ex044.py)| Gerenciador de Pagamentos |
 |[ex045](https://github.com/mpaullos/cursoemvideo-python/blob/main/Exercicios/Mundo2/ex045.py)| Jogo Pedra, Papel e Tesoura |
+|[ex046](https://github.com/mpaullos/cursoemvideo-python/blob/main/Exercicios/Mundo2/ex046.py)| Contagem Regressiva |
+|[ex047](https://github.com/mpaullos/cursoemvideo-python/blob/main/Exercicios/Mundo2/ex047.py)| Contagem de pares |
+|[ex048](https://github.com/mpaullos/cursoemvideo-python/blob/main/Exercicios/Mundo2/ex048.py)| Soma ímpares múltiplos de três |
+|[ex049](https://github.com/mpaullos/cursoemvideo-python/blob/main/Exercicios/Mundo2/ex049.py)| Tabuada V2.0 |
+|[ex050](https://github.com/mpaullos/cursoemvideo-python/blob/main/Exercicios/Mundo2/ex050.py)| Soma dos pares |
 ---
 
 - [Mundo 3](https://github.com/mpaullos/cursoemvideo-python/tree/main/Exercicios/Mundo3)
