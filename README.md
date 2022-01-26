@@ -61,6 +61,16 @@
 |[ex048](https://github.com/mpaullos/cursoemvideo-python/blob/main/Exercicios/Mundo2/ex048.py)| Soma ímpares múltiplos de três |
 |[ex049](https://github.com/mpaullos/cursoemvideo-python/blob/main/Exercicios/Mundo2/ex049.py)| Tabuada V2.0 |
 |[ex050](https://github.com/mpaullos/cursoemvideo-python/blob/main/Exercicios/Mundo2/ex050.py)| Soma dos pares |
+|[ex051](https://github.com/mpaullos/cursoemvideo-python/blob/main/Exercicios/Mundo2/ex051.py)| Progressão Aritmética |
+|[ex052](https://github.com/mpaullos/cursoemvideo-python/blob/main/Exercicios/Mundo2/ex052.py)| Números Primos |
+|[ex053](https://github.com/mpaullos/cursoemvideo-python/blob/main/Exercicios/Mundo2/ex053.py)| Detector de Palíndromo |
+|[ex054](https://github.com/mpaullos/cursoemvideo-python/blob/main/Exercicios/Mundo2/ex054.py)| Grupo da Maioridade |
+|[ex055](https://github.com/mpaullos/cursoemvideo-python/blob/main/Exercicios/Mundo2/ex055.py)| Maior e menor Sequência |
+|[ex056](https://github.com/mpaullos/cursoemvideo-python/blob/main/Exercicios/Mundo2/ex056.py)| Analisador Completo |
+|[ex057](https://github.com/mpaullos/cursoemvideo-python/blob/main/Exercicios/Mundo2/ex057.py)| Validação de Dados |
+|[ex058](https://github.com/mpaullos/cursoemvideo-python/blob/main/Exercicios/Mundo2/ex058.py)| Jogo da Adivinhação 2.0 |
+|[ex059](https://github.com/mpaullos/cursoemvideo-python/blob/main/Exercicios/Mundo2/ex059.py)| Criando um menu de opções |
+|[ex060](https://github.com/mpaullos/cursoemvideo-python/blob/main/Exercicios/Mundo2/ex060.py)| Calculo de Fatorial |
 ---
 
 - [Mundo 3](https://github.com/mpaullos/cursoemvideo-python/tree/main/Exercicios/Mundo3)
