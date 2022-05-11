@@ -71,6 +71,7 @@
 |[ex058](https://github.com/mpaullos/cursoemvideo-python/blob/main/Exercicios/Mundo2/ex058.py)| Jogo da Adivinhação 2.0 |
 |[ex059](https://github.com/mpaullos/cursoemvideo-python/blob/main/Exercicios/Mundo2/ex059.py)| Criando um menu de opções |
 |[ex060](https://github.com/mpaullos/cursoemvideo-python/blob/main/Exercicios/Mundo2/ex060.py)| Calculo de Fatorial |
+|[ex061](https://github.com/mpaullos/cursoemvideo-python/blob/main/Exercicios/Mundo2/ex061.py)| Progressão Aritmética v2.0 |
 ---
 
 - [Mundo 3](https://github.com/mpaullos/cursoemvideo-python/tree/main/Exercicios/Mundo3)
