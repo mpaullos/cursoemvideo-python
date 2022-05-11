@@ -72,6 +72,11 @@
 |[ex059](https://github.com/mpaullos/cursoemvideo-python/blob/main/Exercicios/Mundo2/ex059.py)| Criando um menu de opções |
 |[ex060](https://github.com/mpaullos/cursoemvideo-python/blob/main/Exercicios/Mundo2/ex060.py)| Calculo de Fatorial |
 |[ex061](https://github.com/mpaullos/cursoemvideo-python/blob/main/Exercicios/Mundo2/ex061.py)| Progressão Aritmética v2.0 |
+|[ex062](https://github.com/mpaullos/cursoemvideo-python/blob/main/Exercicios/Mundo2/ex062.py)| Progressão Aritmética v3.0 |
+|[ex063](https://github.com/mpaullos/cursoemvideo-python/blob/main/Exercicios/Mundo2/ex063.py)| Sequência de Fibonacci v1.0 |
+|[ex064](https://github.com/mpaullos/cursoemvideo-python/blob/main/Exercicios/Mundo2/ex064.py)| Tratando vários valores v1.0 |
+|[ex065](https://github.com/mpaullos/cursoemvideo-python/blob/main/Exercicios/Mundo2/ex065.py)| Menor e Maior Valores |
+
 ---
 
 - [Mundo 3](https://github.com/mpaullos/cursoemvideo-python/tree/main/Exercicios/Mundo3)
